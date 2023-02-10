@@ -5,3 +5,5 @@ List bankname = ["Axis Bank","Yes Bank","SBI","Rbl Bank","Kotak Bank","Indian Ba
 List pagecontent = ["Website","contact","app"];
 
 String axisbankname="Axis Bank";
+
+List typeOfQuotes = ["Funney Quotes","Sad Quoter","Daily Qoutes","Motivational Quotes","Emotional Quotes"];
