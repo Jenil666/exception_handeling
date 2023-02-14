@@ -10,11 +10,8 @@
 
 class Quotes
 {
-  String? quote1;
-  String? quote2;
-  String? quote3;
-  String? quote4;
-  String? quote5;
+  List? quote;
 
-  Quotes({this.quote1, this.quote2, this.quote3, this.quote4, this.quote5});
+
+  Quotes({this.quote});
 }
